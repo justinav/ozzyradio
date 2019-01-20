@@ -1,5 +1,5 @@
 ---
-title: Ozzy Radio
+title: Home
 layout: home
 
 ---
