@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
----
+permalink: "/about/"
 
-run by justina
+---
+run by [justina](http://jusv.co "justina")
