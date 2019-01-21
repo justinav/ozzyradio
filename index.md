@@ -3,6 +3,9 @@ title: Home
 layout: home
 image-upload: "/uploads/ozzy-bandcastle.jpg"
 text_area: centre of eternity
+gallery:
+- "/uploads/ozzy-bandcastle.jpg"
+undefined: []
 
 ---
 ![ozzy and randy on stage](/uploads/ozzy-randy1.jpg "ozzy + randy")
