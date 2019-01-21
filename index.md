@@ -10,8 +10,6 @@ undefined: []
 ---
 ![ozzy, tommy aldridge, randy rhoads, rudy sarzo at disney 1981](/uploads/ozzy-bandcastle.jpg "ozzy band")
 
-# asdf
-
 ![ozzy and randy on stage](/uploads/ozzy-randy1.jpg "ozzy + randy")
 
 ![ozzy plugging his ears](/uploads/ozzy-ears.jpg "ozzy")
