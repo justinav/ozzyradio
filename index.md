@@ -8,7 +8,19 @@ gallery:
 undefined: []
 
 ---
+![](/uploads/ozzy-dolls.jpg)
+
+![](/uploads/ozzy-ultimatesingles.jpg)
+
+![](/uploads/ozzy-zak.jpg)
+
+![](/uploads/ozzy-knees.jpg)
+
+![](/uploads/ozzy-sabbathcolor.jpg)![](/uploads/ozzy-sabbathcrosses.jpg)
+
 ![ozzy and randy rhoads posed picture](/uploads/ozzy-randy2.jpg "ozzy and randy")
+
+![](/uploads/ozzy-speakofdeveil.jpg)
 
 ![classic sabbath era photo with ozzy wearing blizzard of ozz t-shirt](/uploads/ozzy-sabbathclassic.jpg "black sabbath")![ozzy on stage with sabbath wearing fringe jacket](/uploads/ozzy-sabbathfringe.jpg "ozzy on stage")
 
