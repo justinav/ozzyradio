@@ -16,3 +16,5 @@ fields:
 - type: file
   name: image-upload
   label: image-upload
+pages:
+- index.md
