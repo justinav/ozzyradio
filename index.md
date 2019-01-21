@@ -3,10 +3,10 @@ title: Home
 layout: home
 
 ---
-![](/uploads/ozzy-randy1.jpg)
+![ozzy and randy on stage](/uploads/ozzy-randy1.jpg "ozzy + randy")
 
-![](/uploads/ozzy-ears.jpg)
+![ozzy plugging his ears](/uploads/ozzy-ears.jpg "ozzy")
 
-![](/uploads/ozzy-blizzardcasstte.jpg)
+![blizzard of ozz cassette tape with barcode on cover](/uploads/ozzy-blizzardcasstte.jpg "blizzard of ozz tape")
 
-![](/uploads/ozzy-sotired.jpg)
+![so tired 12 inch released on epic](/uploads/ozzy-sotired.jpg "ozzy so tired")
