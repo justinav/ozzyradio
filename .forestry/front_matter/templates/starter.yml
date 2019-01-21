@@ -10,9 +10,6 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-- type: blocks
-  name: blocks
-  label: blocks
 - type: file
   name: image-upload
   label: image-upload
