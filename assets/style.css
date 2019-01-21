@@ -89,6 +89,8 @@ header {
 }
 main {
   padding-top: 3em;
+  display: flex;
+  flex-flow: row wrap;
 }
 p {
   margin: 0 auto 1em;
