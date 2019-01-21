@@ -8,7 +8,7 @@ gallery:
 undefined: []
 
 ---
-![](/uploads/ozzy-bandcastle.jpg)
+![ozzy, tommy aldridge, randy rhoads, rudy sarzo at disney 1981](/uploads/ozzy-bandcastle.jpg "ozzy band")
 
 # asdf
 
