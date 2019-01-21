@@ -1,8 +1,7 @@
 ---
 label: Starter
 hide_body: false
-is_partial: true
-display_field: text_area
+is_partial: false
 fields:
 - type: textarea
   name: text_area
@@ -11,8 +10,9 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-- type: file
-  name: image-upload
-  label: image-upload
+- type: image_gallery
+  name: gallery
+  label: gallery
+- type: list
 pages:
 - index.md
