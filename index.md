@@ -8,6 +8,10 @@ gallery:
 undefined: []
 
 ---
+![ozzy and randy rhoads posed picture](/uploads/ozzy-randy2.jpg "ozzy and randy")
+
+![classic sabbath era photo with ozzy wearing blizzard of ozz t-shirt](/uploads/ozzy-sabbathclassic.jpg "black sabbath")![ozzy on stage with sabbath wearing fringe jacket](/uploads/ozzy-sabbathfringe.jpg "ozzy on stage")
+
 ![ozzy, tommy aldridge, randy rhoads, rudy sarzo at disney 1981](/uploads/ozzy-bandcastle.jpg "ozzy band")
 
 ![ozzy and randy on stage](/uploads/ozzy-randy1.jpg "ozzy + randy")
